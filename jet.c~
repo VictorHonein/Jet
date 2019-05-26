@@ -2,7 +2,6 @@
 #include "two-phase.h"
 #include "tension.h"
 #include "tag.h"
-//#include "view.h"
 
 #define radius 1./12.
 #define length 0.025
